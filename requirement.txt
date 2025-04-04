@@ -1,0 +1,2 @@
+qrcode==8.1
+streamlit==1.43.1
